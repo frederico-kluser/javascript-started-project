@@ -1,0 +1,19 @@
+{
+  "name": "javascript-started-project",
+  "version": "1.0.0",
+  "description": "Github project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederico-kluser/javascript-started-project.git"
+  },
+  "author": "Frederico Guilherme Kl\u001euser de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederico-kluser/javascript-started-project/issues"
+  },
+  "homepage": "https://github.com/frederico-kluser/javascript-started-project#readme"
+}

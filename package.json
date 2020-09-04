@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/frederico-kluser/javascript-started-project#readme",
   "dependencies": {
-    "eslint": "^7.8.1",
     "husky": "^4.2.5",
     "prettier": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
